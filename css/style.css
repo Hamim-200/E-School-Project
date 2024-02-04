@@ -1,0 +1,129 @@
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+  .header {
+    background-color: #F0FFF0;
+  }
+  .head-home {
+    margin-top: 80px;
+    padding-bottom: 100px;
+  }
+  .illus-img img {
+    width: 85%;
+  }
+  .first-text {
+    color: #FD511A;
+  }
+  .text-style {
+    color: #21B573;
+    font-weight: bold;
+  }
+  .head-home h1 {
+    font-weight: bold;
+  }
+  .btn-green {
+    color: #fff;
+    background-color: #21B573;
+    padding: 10px 40px;
+    font-size: 18px;
+    border-radius: 40px;
+  }
+  .btn-sign {
+    color: #fff !important ;
+  }
+  .btn:hover {
+    color: #fff;
+  }
+  .head-home .btn-green {
+    margin-top: 80px;
+  }
+  .card-img, .card-img-bottom, .card-img-top {
+    width: 30%;
+  }
+  .our-achiv .card {
+    text-align: center;
+    padding: 35px 0;
+    background-color: #F8FFFB;
+    border: none;
+    border-radius: 10px;
+  }
+  .our-achiv .card-img-top {
+    margin: 0 auto;
+  }
+  .our-achiv .card:hover {
+    box-shadow: 10px 20px 40px gray;
+    color: #000;
+    background-color: #fff;
+  }
+  .our-achiv {
+    padding: 50px 0 70px 0;
+    background-color: #FDFCFC00;
+  }
+  .courses .card-deck .card .card-footer small img {
+    width: 7%;
+  }
+  .courses .card-deck .card .card-footer {
+    background-color: #fff;
+    border-top: none;
+  }
+  .courses .card-deck .card .card-img-top {
+    width: 90%;
+    margin: 0 auto;
+  }
+  .courses .card-deck .card {
+    padding: 20px 0;
+    border-radius: 14px;
+    box-shadow: 10px 20px 40px lightgray;
+    border: none;
+  }
+  .courses {
+    margin: 50px 0;
+  }
+  .testimonial {
+    margin: 50px 0;
+  }
+  .testimonial img {
+    width: 15%;
+    margin-right: 75px;
+  }
+  .testimonial p {
+    margin: 50px 0;
+  }
+  .scholar {
+    margin: 80px 0;
+  }
+  .qna .card .btn:hover {
+    color: #000;
+    text-decoration: none;
+  }
+  .qna .card .btn {
+    text-decoration: none;
+  }
+  .qna {
+    margin: 100px 0;
+  }
+  .carousel-item {
+    height: 300px;
+  }
+  .footer ul li {
+    list-style: none;
+    margin: 8px 0;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  .footer {
+    padding: 70px 0;
+  }
+  .footer span {
+    font-size: 16px;
+  }
+  .modal-footer,
+  .modal-header{
+    border: none;
+  }
+  
+  
+  
+  /* CART */
+  
